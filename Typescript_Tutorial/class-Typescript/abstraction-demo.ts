@@ -23,3 +23,4 @@ class student extends user{
 let student1=new student('hima', 34, 'bangladesh')
 student1.display();
 
+//last
